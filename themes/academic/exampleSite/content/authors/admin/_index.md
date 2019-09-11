@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yi Jiang
+name: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Zhejiang Sci-Tech University
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Zhejiang Sci-Tech University & University of Memphis
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Information Management System
-- Web Programming
-- Data Analysis
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Information Science
-    institution: Center China Normal University
-    year: 2015
-  - course: MEng in Computer Application
-    institution: Zhejiang Sci-Tech University
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
     year: 2008
-  - course: BSc in Computer Software
-    institution: Center China Normal University
-    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,7 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Yi Jiang is a associate professor of informaiton management department at Zhejiang Sci-Tech University. Now He is a visiting scholor at the University of Memphis.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
